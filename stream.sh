@@ -3,10 +3,10 @@
 VBR="1500k"
 FPS="30"
 QUAL="veryfast"
-RTMP_URL="rtmps"
-RTMP_KEY="rtmp key"
+RTMP_URL="rtmp://zl-tr-live1.livenono.com:1938/live/"
+RTMP_KEY="52900386-8491a3ce7789629505fd319db820d7b1"
 VIDEO_SOURCE="videos/your.mp4"
-AUDIO_SOURCE="mp3/your.mp3"
+AUDIO_SOURCE="mp3/sound1.mp3"
 AUDIO_ENCODER="aac"
 
 ffmpeg \
